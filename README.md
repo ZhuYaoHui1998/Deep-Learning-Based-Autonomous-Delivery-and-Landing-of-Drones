@@ -1,0 +1,2 @@
+# Yolov5
+这个项目通过Yolov5目标检测算法通过Jetsonnano搭载于Pixhawk无人机上进行无人机目标跟踪、投递及降落
